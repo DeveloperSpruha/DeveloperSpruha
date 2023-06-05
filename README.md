@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeveloperSpruha
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning React, NodeJS, MongoDB, and Express.
+- 🌱 I’m currently working with React, ReactNative, Expo, GraphQL, NodeJS, MongoDB, Express and AWS.
 - 💞️ I’m looking to collaborate on the MERN Stack or the Django/Python stack. 
 - 📫 developer.spruha@gmail.com
 
